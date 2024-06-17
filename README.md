@@ -37,6 +37,37 @@ BIRDS-5 has 5 main missions in total; attitude visualisation, Imaging classifica
 
 ## Organisation structure
 
+```bash
+├── .gitattributes
+├── Assembly Procedure
+├── EM Test Reports
+│   ├── EM Battery Cells Selection
+│   ├── EM Thermal Vacuum Test
+│   │   ├── Result
+│   │   │   ├── 20210818_EM
+│   │   │   ├── 20210818_EM screenshot
+│   │   │   ├── 20210822_2U EM 2
+│   │   │   └── 20210822_2U EM 2 screenshot
+│   └── EM_Vibration Report
+├── FM Test Reports
+│   ├── Communication Report
+│   ├── FM Battery Selection
+│   ├── FM Solar Panels Perfomance Tests
+│   └── FM Thermal Vacuum Test
+│       ├── 20220208_SAT1_FM
+│       ├── 20220209_SAT1_FM
+│       ├── 20220209_SAT3_FM
+│       ├── 20220209_SAT3_part II_FM
+│       └── Graph
+└── Test Procedure
+    ├── Anechoic Chamber Test
+    ├── Antenna Development Test
+    ├── Long Range Test
+    ├── Thermal Vacuum Test
+    ├── Using Shield Box(Transceiver Sensitivity)
+    └── Vibration Test
+
+```
 
 ## Features
 
